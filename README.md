@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning artificial intelligence
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: he/him (ofc)
+- 😄 Pronouns: he/him 
 - ⚡ Fun fact: I have the best girlfriend in the entire world!
 
 <!---
